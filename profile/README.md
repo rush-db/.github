@@ -7,7 +7,7 @@ RushDB is an open-source alternative to Firebase, built on top of Neo4j.
 
 It streamlines application development by automating data normalization, managing relationships, inferring data types automatically, and offering a suite of additional powerful features to accelerate your workflow.
 
-[🌐 Homepage](https://rushdb.com) — [📢 Blog](https://rushdb.com/blog) — [☁️ Platform ](https://app.rushdb.com) — [📖 Docs](https://docs.rushdb.com) — [🧑‍💻 Examples](https://github.com/rush-db/rushdb/examples)
+[🌐 Homepage](https://rushdb.com) — [📢 Blog](https://rushdb.com/blog) — [☁️ Platform ](https://app.rushdb.com) — [📖 Docs](https://docs.rushdb.com) — [🧑‍💻 Examples](https://github.com/rush-db/examples)
 </div>
 
 ## 🚀 Feature Highlights
@@ -45,6 +45,6 @@ A REST API with SDK-like DX for every operation: manage relationships, create, d
 
 <div align="center" style="margin-top: 20px">
 
-> Check the [Documentation](https://docs.rushdb.com) and [Examples](https://github.com/rush-db/rushdb/examples) to learn more 🤓
+> Check the [Documentation](https://docs.rushdb.com) and [Examples](https://github.com/rush-db/examples) to learn more 🤓
 
 </div>
