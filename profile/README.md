@@ -19,7 +19,7 @@
 
 ---
 
-Write JSON from your app. RushDB stores it as typed records linked into a graph, and answers relationship queries, vector and full-text search, and aggregations from those same records through the SDKs, SQL, Cypher or MCP. One Rust binary, Apache-2.0, or managed on RushDB Cloud.
+Bring data in the way you have it: nested JSON, CSV, SQL, Cypher or Mongo-style writes, or change streams from your databases. RushDB stores it as typed records linked into a graph and answers relationship queries, vector and full-text search, and aggregations from those same records, over HTTP, the PostgreSQL wire protocol, Bolt, gRPC or MCP. One Rust binary, Apache-2.0, or managed on RushDB Cloud.
 
 ## Get started
 
