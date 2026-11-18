@@ -42,7 +42,7 @@ Bring data in the way you have it: nested JSON, CSV, SQL, Cypher or Mongo-style 
 
 ## Repositories
 
-| | |
+| Area | Repositories |
 |---|---|
 | **Core** | [rushdb](https://github.com/rush-db/rushdb) (the database) · [docs](https://github.com/rush-db/docs) · [examples](https://github.com/rush-db/examples) |
 | **SDKs** | [javascript-sdk](https://github.com/rush-db/javascript-sdk) · [rushdb-python](https://github.com/rush-db/rushdb-python) |
