@@ -23,6 +23,8 @@ Bring data in the way you have it: nested JSON, CSV, SQL, Cypher or Mongo-style 
 
 ## Get started
 
+![Terminal recording: install RushDB, start it with rushdb up, then from Python import nested JSON, filter employees by department, count people and average salary per department, and print the live schema](https://raw.githubusercontent.com/rush-db/rushdb/main/assets/quickstart.gif)
+
 1. Start a local database:
 
    ```bash
